@@ -1,5 +1,5 @@
 # QVxETCxAIU-HamsterWatchProject
-An interactive multiplayer Android smartwatch experience with hamsters everywhere.
+*An interactive multiplayer Android smartwatch experience with hamsters everywhere!*
 
 ![Soccer](/Images/Soccer.png)
 
@@ -25,5 +25,6 @@ https://github.com/johnchoi313/QVxETCxAIU-HamsterWatchProject/tree/master/Hamste
 https://github.com/johnchoi313/QVxETCxAIU-HamsterWatchProject/blob/master/Hamster%20Project%20Documentation.pdf
 
 ![Hamster GIF](/Images/Hamster.gif)
+
 Happy Hamstering!
 
