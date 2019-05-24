@@ -1,7 +1,7 @@
 # QVxETCxAIU-HamsterWatchProject
 An interactive multiplayer Android smartwatch experience with hamsters everywhere.
 
-![Soccer](/Images/Soccer.PNG)
+![Soccer](/Images/Soccer.png)
 
 **Summary** <br/>
 The Quaker Valley School District partnered with the Center for Creativity and Carnegie Mellon’s Entertainment Technology Center to leverage technology to better support learners with exceptionalities. QVSD has created a team of special education teachers, representing all four QVSD school buildings and both, life skills and general special education student populations. We split our team into secondary and elementary groups and created a prototype problem-statements for each group. The purpose of this grant is to identify the challenges of special education teachers, related to better supporting special needs youth. We will collaborate with experts in emerging technologies and prototype solutions for the benefit of student learning. Finally, we hope that the technology and solutions created through this unique partnership, are scalable and will be shared with the Remake Learning Community. 
